@@ -22,7 +22,7 @@ Solving the task involves using an ANN.
    OpenCV
    if you didn't have it before, run this instruction: !pip install opencv-python
    
-**Results**
+__*Results*__
 
 ![Sepia_filter_predictions](https://user-images.githubusercontent.com/62243784/111454227-191c0480-871d-11eb-8532-99e9b35702fb.jpg)
 
@@ -45,5 +45,6 @@ Rezolvarea task-ului implica folosirea unei ANN.
   OpenCV
   daca nu aveati inainte rulati aceasta instructiune: !pip install opencv-python
 
-**Rezultate**
+__*Rezultate*__
+
 ![Sepia_filter_predictions](https://user-images.githubusercontent.com/62243784/111454227-191c0480-871d-11eb-8532-99e9b35702fb.jpg)
