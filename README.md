@@ -1,7 +1,7 @@
 # ANN Sepia Filter
 
 The dataset  "data_3" is one that I made for this perticular project. It has about 750 pictures , around half of them with sepia filter and the other without.
-
+This notebook was made in Jupyter Notebook and Kaggle.
 ### *English*
 
 
